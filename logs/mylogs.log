@@ -1,0 +1,132 @@
+[INFO ] 2020-03-21 20:37:38.282 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-21 20:37:41.739 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-21 20:37:41.999 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-21 20:37:43.337 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-21 20:37:43.371 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 00:04:17.823 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 00:04:20.457 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 00:04:20.739 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 00:04:21.949 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 00:04:21.989 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 00:05:44.643 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 00:05:50.159 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 00:05:50.449 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 00:05:52.835 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 00:05:52.889 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 10:41:16.125 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 10:41:20.003 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 10:41:20.125 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 10:41:21.958 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 10:41:21.983 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 12:31:54.156 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 12:32:00.519 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 12:32:00.806 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 12:32:03.532 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 12:32:03.560 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 12:59:26.824 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 12:59:42.291 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 12:59:42.492 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 12:59:43.619 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 12:59:43.643 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 13:03:21.383 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 13:03:26.866 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 13:03:27.119 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 13:03:29.212 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 13:03:29.249 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:11:55.504 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:12:01.549 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:12:01.780 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:12:04.023 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:12:04.062 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:14:29.451 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:14:34.344 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:14:34.634 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:14:36.368 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:14:36.407 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:20:39.163 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:20:49.350 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:20:49.620 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:20:51.747 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:20:51.785 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:24:26.077 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:24:53.928 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:25:02.618 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:25:08.259 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:25:14.050 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:30:53.208 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:30:58.100 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:30:58.330 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:31:00.319 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:31:00.357 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:40:17.557 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:40:22.380 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:40:22.609 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:40:24.564 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:40:24.602 [main] TC001_LoginTest - ****Title Verified*****
+[INFO ] 2020-03-22 14:55:31.389 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:55:37.809 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:55:38.067 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:55:39.777 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:56:50.460 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 14:56:55.247 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 14:56:55.505 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 14:56:56.965 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 14:56:56.988 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 15:04:58.550 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 15:05:05.113 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 15:05:05.375 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 15:05:07.090 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 15:05:07.119 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 18:55:27.079 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 18:55:35.078 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 18:55:35.317 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 18:55:37.267 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 18:55:37.988 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 18:59:46.543 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 18:59:51.286 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 18:59:51.580 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 18:59:53.811 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 18:59:54.408 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 19:00:46.438 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 19:00:50.685 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 19:00:50.949 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 19:00:56.155 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 19:00:56.808 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 19:05:48.503 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 19:05:55.713 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 19:05:56.001 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 19:05:57.765 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 19:05:58.362 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 19:07:57.194 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 19:08:04.479 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 19:08:04.744 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 19:08:06.049 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 19:08:06.607 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 19:23:22.505 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 19:23:27.520 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 19:23:27.817 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 19:23:29.728 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 19:23:31.170 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 19:59:26.598 [main] TC001_LoginTest - ****TC001_LoginTeststarted****
+[INFO ] 2020-03-22 19:59:33.103 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 19:59:33.308 [main] TC001_LoginTest - ****password entered****
+[INFO ] 2020-03-22 19:59:35.160 [main] TC001_LoginTest - ****Click button clicked*****
+[INFO ] 2020-03-22 19:59:35.774 [main] TC001_LoginTest - ***Wrong title***
+[INFO ] 2020-03-22 23:41:47.404 [main] TC001_LoginTest - ****TC002_LoginTestDDT started****
+[INFO ] 2020-03-22 23:41:51.658 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 23:41:51.827 [main] TC001_LoginTest - ****Password entered****
+[INFO ] 2020-03-22 23:41:54.459 [main] TC001_LoginTest - ****Click button clicked****
+[INFO ] 2020-03-22 23:41:54.502 [main] TC001_LoginTest - ****Login Successfull****
+[INFO ] 2020-03-22 23:41:57.179 [main] TC001_LoginTest - ****TC002_LoginTestDDT started****
+[INFO ] 2020-03-22 23:41:58.890 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 23:41:59.258 [main] TC001_LoginTest - ****Password entered****
+[INFO ] 2020-03-22 23:41:59.814 [main] TC001_LoginTest - ****Click button clicked****
+[INFO ] 2020-03-22 23:42:00.845 [main] TC001_LoginTest - ****TC002_LoginTestDDT started****
+[INFO ] 2020-03-22 23:42:03.072 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 23:42:03.351 [main] TC001_LoginTest - ****Password entered****
+[INFO ] 2020-03-22 23:42:03.934 [main] TC001_LoginTest - ****Click button clicked****
+[INFO ] 2020-03-22 23:42:05.850 [main] TC001_LoginTest - ****TC002_LoginTestDDT started****
+[INFO ] 2020-03-22 23:42:08.912 [main] TC001_LoginTest - ****Username entered****
+[INFO ] 2020-03-22 23:42:09.196 [main] TC001_LoginTest - ****Password entered****
+[INFO ] 2020-03-22 23:42:11.344 [main] TC001_LoginTest - ****Click button clicked****
+[INFO ] 2020-03-22 23:42:11.368 [main] TC001_LoginTest - ****Login Successfull****
